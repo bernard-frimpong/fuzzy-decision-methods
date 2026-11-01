@@ -1,0 +1,37 @@
+name: Reproduce results
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "requirements.txt"
+      - ".github/workflows/reproduce.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Generate synthetic data and run all analyses
+        run: |
+          python src/generate_synthetic_data.py
+          python src/fse.py --ratings data/synthetic_ce_ratings.csv --items data/ce_items.csv --label circularity
+          python src/fse.py --ratings data/synthetic_nzs_operational.csv --items data/nzs_items.csv --label operational
+          python src/fse.py --ratings data/synthetic_nzs_embodied.csv --items data/nzs_items.csv --label embodied
+          python src/fuzzy_dematel.py --data data/synthetic_dematel_experts.csv --band 0.05
+      - name: Commit regenerated data and results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data results
+          git diff --cached --quiet || (git commit -m "Regenerate synthetic data and results" && git push)

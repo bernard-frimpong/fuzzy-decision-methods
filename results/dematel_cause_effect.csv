@@ -1,0 +1,11 @@
+,factor_name,D,R,prominence,relation,role
+S4,Whole-life carbon assessment and targets,1.9888,0.8369,2.8257,1.1519,cause
+CE-F,Information and enabling infrastructure,1.8378,0.9267,2.7645,0.9111,cause
+CE-E,Material efficiency and waste minimisation,1.0047,0.9599,1.9646,0.0448,cause
+CE-A,Design for disassembly and deconstruction,1.0079,1.0017,2.0096,0.0062,cause
+CE-B,Design for longevity and adaptability,1.0038,1.0063,2.0102,-0.0025,effect
+CE-C,Reuse and reclamation practices,0.9491,0.9983,1.9474,-0.0491,effect
+CE-D,"Refurbishment, repurposing and recycling practices",0.906,1.0307,1.9367,-0.1247,effect
+S2,Technology- and material-intensive operational measures,0.651,1.1741,1.8251,-0.5232,effect
+S1,Passive form and ventilation,0.845,1.3805,2.2254,-0.5355,effect
+S3,Low-carbon materials and structural efficiency,0.698,1.577,2.2751,-0.879,effect

@@ -1,0 +1,31 @@
+code,group,item
+NZS01,S1,Orientation
+NZS02,S1,Form and compactness
+NZS03,S1,Courtyards and atria
+NZS04,S1,Window-to-wall ratio
+NZS05,S1,Cross-ventilation
+NZS06,S1,Stack-effect ventilation
+NZS07,S1,Night purge ventilation
+NZS08,S2,Adaptive ventilation skins
+NZS09,S1,Fixed external shading
+NZS10,S2,Adjustable shading
+NZS11,S2,Daylighting and light shelves
+NZS12,S2,Low solar-gain glazing
+NZS13,S2,Insulation
+NZS14,S2,Airtightness
+NZS15,S2,Thermal mass
+NZS16,S2,Cool roofing
+NZS17,S2,Green roofs and facades
+NZS18,S2,High-efficiency cooling
+NZS19,S2,Efficient lighting and controls
+NZS20,S2,On-site renewables
+NZS21,S3,Low-carbon cement and concrete
+NZS22,S3,Earth-based construction
+NZS23,S3,Timber and bio-based materials
+NZS24,S3,Structural material optimisation
+NZS25,S3,Locally sourced materials
+NZS26,S4,Cradle-to-grave assessment
+NZS27,S4,Whole-life carbon accounting
+NZS28,S4,Embodied carbon benchmarking
+NZS29,S4,End-of-life scenario modelling
+NZS30,S4,Nearly net-zero intermediate target

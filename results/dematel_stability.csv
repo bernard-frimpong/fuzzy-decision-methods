@@ -1,0 +1,13 @@
+left_out,n_switched,switched,n_switched_outside_band,switched_outside_band
+E01,0,,0,
+E02,0,,0,
+E03,0,,0,
+E04,1,CE-A,0,
+E05,2,CE-A; CE-B,0,
+E06,1,CE-B,0,
+E07,0,,0,
+E08,0,,0,
+E09,2,CE-A; CE-B,0,
+E10,1,CE-B,0,
+E11,2,CE-A; CE-B,0,
+E12,0,,0,

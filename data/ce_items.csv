@@ -1,0 +1,30 @@
+code,group,item
+CE01,A,Use of reversible mechanical connections
+CE02,A,Accessibility of components for later recovery
+CE03,A,Avoidance of bonded and composite assemblies
+CE04,A,"Layered construction separating structure, envelope and services"
+CE05,A,Deconstruction planning at design stage
+CE06,A,Specification of separable material streams
+CE07,B,Design for extended building service life
+CE08,B,Spatial adaptability and functional flexibility
+CE09,B,Structural capacity provision for future change
+CE10,B,Durability specification of exposed elements
+CE11,C,Direct reuse of reclaimed structural components
+CE12,C,Reuse of reclaimed masonry and blockwork
+CE13,C,"Reuse of doors, windows, fittings and fixtures"
+CE14,C,Salvage-oriented demolition practice
+CE15,D,Refurbishment of existing building fabric
+CE16,D,Repurposing of components to new functions
+CE17,D,Use of recycled aggregate in concrete
+CE18,D,Recycled content in non-structural elements
+CE19,D,Recovery of demolition waste for secondary use
+CE20,E,Dimensional coordination to reduce off-cuts
+CE21,E,Standardisation and modular component sizing
+CE22,E,Structural optimisation to reduce material quantity
+CE23,E,Prefabrication and off-site manufacture
+CE24,E,Local sourcing to reduce transport burden
+CE25,F,Material passports and component documentation
+CE26,F,BIM-based material inventory
+CE27,F,Reverse logistics and take-back arrangements
+CE28,F,Availability and maturity of secondary material markets
+CE29,F,Professional training in deconstruction principles

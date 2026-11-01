@@ -1,0 +1,31 @@
+code,group,item,n,mean,sd,rii,t,p_one_tailed,significant_0.05,rank
+NZS04,S1,Window-to-wall ratio,385,4.2753,0.782,0.8551,19.4543,0.0,True,1
+NZS05,S1,Cross-ventilation,385,4.1273,0.8081,0.8255,15.2307,0.0,True,2
+NZS11,S2,Daylighting and light shelves,385,4.1065,0.8488,0.8213,14.0207,0.0,True,3
+NZS02,S1,Form and compactness,385,4.0935,0.8175,0.8187,14.2451,0.0,True,4
+NZS06,S1,Stack-effect ventilation,385,4.0494,0.8479,0.8099,12.7128,0.0,True,5
+NZS17,S2,Green roofs and facades,385,4.0,0.7971,0.8,12.3075,0.0,True,6
+NZS03,S1,Courtyards and atria,385,3.9429,0.885,0.7886,9.8189,0.0,True,7
+NZS08,S2,Adaptive ventilation skins,385,3.9403,0.8833,0.7881,9.7795,0.0,True,8
+NZS10,S2,Adjustable shading,385,3.9195,0.8331,0.7839,9.88,0.0,True,9
+NZS18,S2,High-efficiency cooling,385,3.9143,0.8572,0.7829,9.4829,0.0,True,10
+NZS07,S1,Night purge ventilation,385,3.9039,0.8283,0.7808,9.568,0.0,True,11
+NZS15,S2,Thermal mass,385,3.8857,0.8645,0.7771,8.7547,0.0,True,12
+NZS19,S2,Efficient lighting and controls,385,3.8442,0.9052,0.7688,7.46,0.0,True,13
+NZS16,S2,Cool roofing,385,3.8208,0.8936,0.7642,7.0436,0.0,True,14
+NZS09,S1,Fixed external shading,385,3.7948,0.8909,0.759,6.4928,0.0,True,15
+NZS01,S1,Orientation,385,3.7896,0.8749,0.7579,6.4948,0.0,True,16
+NZS20,S2,On-site renewables,385,3.7844,0.8972,0.7569,6.2201,0.0,True,17
+NZS14,S2,Airtightness,385,3.7299,0.8749,0.746,5.1555,0.0,True,18
+NZS12,S2,Low solar-gain glazing,385,3.6883,0.908,0.7377,4.0693,0.0,True,19
+NZS28,S4,Embodied carbon benchmarking,385,3.6857,0.8999,0.7371,4.0493,0.0,True,20
+NZS13,S2,Insulation,385,3.6727,0.9337,0.7345,3.6298,0.0002,True,21
+NZS29,S4,End-of-life scenario modelling,385,3.3169,0.9176,0.6634,-3.9156,0.9999,False,22
+NZS30,S4,Nearly net-zero intermediate target,385,3.1247,0.9242,0.6249,-7.9681,1.0,False,23
+NZS22,S3,Earth-based construction,385,3.0026,0.9284,0.6005,-10.5122,1.0,False,24
+NZS24,S3,Structural material optimisation,385,2.9273,0.8385,0.5855,-13.4027,1.0,False,25
+NZS25,S3,Locally sourced materials,385,2.9143,0.9357,0.5829,-12.2829,1.0,False,26
+NZS21,S3,Low-carbon cement and concrete,385,2.8753,0.9922,0.5751,-12.3537,1.0,False,27
+NZS27,S4,Whole-life carbon accounting,385,2.8727,0.9225,0.5745,-13.3424,1.0,False,28
+NZS26,S4,Cradle-to-grave assessment,385,2.8675,0.8783,0.5735,-14.1289,1.0,False,29
+NZS23,S3,Timber and bio-based materials,385,2.7117,0.9086,0.5423,-17.0242,1.0,False,30

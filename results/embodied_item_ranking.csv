@@ -1,0 +1,31 @@
+code,group,item,n,mean,sd,rii,t,p_one_tailed,significant_0.05,rank
+NZS21,S3,Low-carbon cement and concrete,385,4.2857,0.7715,0.8571,19.9825,0.0,True,1
+NZS24,S3,Structural material optimisation,385,4.1091,0.8561,0.8218,13.9605,0.0,True,2
+NZS23,S3,Timber and bio-based materials,385,3.9714,0.8519,0.7943,10.8581,0.0,True,3
+NZS22,S3,Earth-based construction,385,3.961,0.8267,0.7922,10.9431,0.0,True,4
+NZS25,S3,Locally sourced materials,385,3.9299,0.8371,0.786,10.0756,0.0,True,5
+NZS28,S4,Embodied carbon benchmarking,385,3.8052,0.8726,0.761,6.8627,0.0,True,6
+NZS30,S4,Nearly net-zero intermediate target,385,3.6935,0.9407,0.7387,4.0361,0.0,True,7
+NZS27,S4,Whole-life carbon accounting,385,3.6649,0.8474,0.733,3.8188,0.0001,True,8
+NZS26,S4,Cradle-to-grave assessment,385,3.6156,0.9201,0.7231,2.4648,0.0071,True,9
+NZS29,S4,End-of-life scenario modelling,385,3.5584,0.9114,0.7117,1.2582,0.1045,False,10
+NZS09,S1,Fixed external shading,385,3.3221,0.8928,0.6644,-3.9104,0.9999,False,11
+NZS03,S1,Courtyards and atria,385,3.2545,0.9561,0.6509,-5.0371,1.0,False,12
+NZS02,S1,Form and compactness,385,3.2312,0.8423,0.6462,-6.2626,1.0,False,13
+NZS04,S1,Window-to-wall ratio,385,3.2026,0.916,0.6405,-6.3706,1.0,False,14
+NZS07,S1,Night purge ventilation,385,3.1896,0.959,0.6379,-6.3507,1.0,False,15
+NZS01,S1,Orientation,385,3.0727,0.9242,0.6145,-9.0717,1.0,False,16
+NZS06,S1,Stack-effect ventilation,385,3.0468,0.9202,0.6094,-9.6646,1.0,False,17
+NZS05,S1,Cross-ventilation,385,2.9195,0.9333,0.5839,-12.2043,1.0,False,18
+NZS18,S2,High-efficiency cooling,385,2.8909,0.8771,0.5782,-13.6257,1.0,False,19
+NZS12,S2,Low solar-gain glazing,385,2.6779,0.9072,0.5356,-17.7796,1.0,False,20
+NZS16,S2,Cool roofing,385,2.5792,0.8924,0.5158,-20.2446,1.0,False,21
+NZS17,S2,Green roofs and facades,385,2.5792,0.9324,0.5158,-19.377,1.0,False,21
+NZS08,S2,Adaptive ventilation skins,385,2.4364,0.9419,0.4873,-22.1569,1.0,False,23
+NZS20,S2,On-site renewables,385,2.374,0.9159,0.4748,-24.1214,1.0,False,24
+NZS13,S2,Insulation,385,2.3558,0.8843,0.4712,-25.3887,1.0,False,25
+NZS14,S2,Airtightness,385,2.3273,0.9196,0.4655,-25.0213,1.0,False,26
+NZS11,S2,Daylighting and light shelves,385,2.2701,0.8984,0.454,-26.8621,1.0,False,27
+NZS15,S2,Thermal mass,385,2.1896,0.8856,0.4379,-29.0335,1.0,False,28
+NZS10,S2,Adjustable shading,385,2.161,0.9438,0.4322,-27.8382,1.0,False,29
+NZS19,S2,Efficient lighting and controls,385,2.1091,0.8889,0.4218,-30.7025,1.0,False,30

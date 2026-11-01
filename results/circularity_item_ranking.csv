@@ -1,0 +1,30 @@
+code,group,item,n,mean,sd,rii,t,p_one_tailed,significant_0.05,rank
+CE22,E,Structural optimisation to reduce material quantity,385,3.961,0.8423,0.7922,10.7403,0.0,True,1
+CE08,B,Spatial adaptability and functional flexibility,385,3.9377,0.9305,0.7875,9.2286,0.0,True,2
+CE09,B,Structural capacity provision for future change,385,3.8442,0.8519,0.7688,7.9272,0.0,True,3
+CE10,B,Durability specification of exposed elements,385,3.8234,0.8927,0.7647,7.1081,0.0,True,4
+CE07,B,Design for extended building service life,385,3.7299,0.8837,0.746,5.1037,0.0,True,5
+CE24,E,Local sourcing to reduce transport burden,385,3.7091,0.9063,0.7418,4.5268,0.0,True,6
+CE23,E,Prefabrication and off-site manufacture,385,3.6987,0.8402,0.7397,4.6406,0.0,True,7
+CE21,E,Standardisation and modular component sizing,385,3.6675,0.9063,0.7335,3.6269,0.0002,True,8
+CE11,C,Direct reuse of reclaimed structural components,385,3.5818,0.946,0.7164,1.697,0.0453,True,9
+CE12,C,Reuse of reclaimed masonry and blockwork,385,3.5584,0.9056,0.7117,1.2662,0.1031,False,10
+CE04,A,"Layered construction separating structure, envelope and services",385,3.5558,0.9144,0.7112,1.1984,0.1158,False,11
+CE13,C,"Reuse of doors, windows, fittings and fixtures",385,3.4156,0.889,0.6831,-1.8631,0.9684,False,12
+CE14,C,Salvage-oriented demolition practice,385,3.4104,0.9202,0.6821,-1.9108,0.9716,False,13
+CE26,F,BIM-based material inventory,385,3.4052,0.8938,0.681,-2.0812,0.981,False,14
+CE20,E,Dimensional coordination to reduce off-cuts,385,3.4,0.9498,0.68,-2.0659,0.9802,False,15
+CE05,A,Deconstruction planning at design stage,385,3.3818,0.9311,0.6764,-2.4906,0.9934,False,16
+CE02,A,Accessibility of components for later recovery,385,3.3662,0.9289,0.6732,-2.8255,0.9975,False,17
+CE18,D,Recycled content in non-structural elements,385,3.3351,0.9598,0.667,-3.3717,0.9996,False,18
+CE15,D,Refurbishment of existing building fabric,385,3.2649,0.9423,0.653,-4.8946,1.0,False,19
+CE19,D,Recovery of demolition waste for secondary use,385,3.2234,0.9531,0.6447,-5.6951,1.0,False,20
+CE06,A,Specification of separable material streams,385,3.2026,0.9329,0.6405,-6.2552,1.0,False,21
+CE01,A,Use of reversible mechanical connections,385,3.1506,0.9673,0.6301,-7.0868,1.0,False,22
+CE28,F,Availability and maturity of secondary material markets,385,3.1013,0.9257,0.6203,-8.4511,1.0,False,23
+CE17,D,Use of recycled aggregate in concrete,385,3.0779,0.946,0.6156,-8.7543,1.0,False,24
+CE25,F,Material passports and component documentation,385,3.039,0.9191,0.6078,-9.842,1.0,False,25
+CE16,D,Repurposing of components to new functions,385,3.0286,1.0061,0.6057,-9.1942,1.0,False,26
+CE03,A,Avoidance of bonded and composite assemblies,385,2.761,0.8985,0.5522,-16.1371,1.0,False,27
+CE27,F,Reverse logistics and take-back arrangements,385,2.7377,0.9221,0.5475,-16.2218,1.0,False,28
+CE29,F,Professional training in deconstruction principles,385,2.5636,0.911,0.5127,-20.1677,1.0,False,29
